@@ -1,0 +1,4 @@
+#cofig app variables
+
+PORT=
+VERIFY_TOKEN =
